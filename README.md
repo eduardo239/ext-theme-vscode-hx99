@@ -10,6 +10,20 @@ Temas escuros para VS Code inspirados na interface de **Cyberpunk 2077**.
 | **HX99 Night City Mint** | `#151817` | Versão suave: cinza-esverdeado escuro com verde-menta pastel `#9CD0A6`, inspirada na tela de mensagens do jogo |
 | **HX99 Night City Cherry** | `#181416` | Irmã do Mint em rosa: cinza-ameixa escuro com rosa-cereja pastel `#F2A6C0` |
 
+## Prévia
+
+**Night City**
+
+![HX99 Night City](prints/hx99-default.png)
+
+**Night City Mint**
+
+![HX99 Night City Mint](prints/hx99-mint.png)
+
+**Night City Cherry**
+
+![HX99 Night City Cherry](prints/hx99-cherry.png)
+
 ## O que muda
 
 - **Explorer estilo "inbox":** o item selecionado vira uma barra sólida na cor de destaque, com texto escuro; os demais ficam em verde-água (menta no Mint, rosa no Cherry) sobre fundo escuro.

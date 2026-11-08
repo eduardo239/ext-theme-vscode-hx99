@@ -1,3 +1,6 @@
 .vscode/**
 scripts/**
 *.vsix
+prints/**
+icons/*
+!icons/icon.png

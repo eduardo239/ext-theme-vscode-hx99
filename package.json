@@ -1,10 +1,23 @@
 {
-  "name": "hx99-terminal-theme",
+  "name": "hx99-night-city",
   "displayName": "HX99 Night City",
   "description": "Temas escuros inspirados em Cyberpunk 2077: Night City (neon amarelo e ciano), Night City Mint (suave, verde-menta) e Night City Cherry (suave, rosa-cereja).",
   "version": "0.1.0",
   "publisher": "eduardo239",
   "license": "MIT",
+  "icon": "icons/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardo239/ext-theme-vscode-hx99.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eduardo239/ext-theme-vscode-hx99/issues"
+  },
+  "homepage": "https://github.com/eduardo239/ext-theme-vscode-hx99#readme",
+  "galleryBanner": {
+    "color": "#0C0D14",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
