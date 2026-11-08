@@ -25,6 +25,10 @@ Temas escuros para VS Code inspirados na interface de **Cyberpunk 2077**.
 
 ![HX99 Night City Cherry](prints/hx99-cherry.png)
 
+**Night City Noir**
+
+![HX99 Night City Cherry](prints/hx99-noir.png)
+
 ## O que muda
 
 - **Explorer estilo "inbox":** o item selecionado vira uma barra sólida na cor de destaque, com texto escuro; os demais ficam em verde-água (menta no Mint, rosa no Cherry) sobre fundo escuro.
