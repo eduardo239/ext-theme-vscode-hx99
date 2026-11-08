@@ -4,11 +4,11 @@ Temas escuros para VS Code inspirados na interface de **Cyberpunk 2077**.
 
 ## Variantes
 
-| Tema | Fundo | Descrição |
-| --- | --- | --- |
-| **HX99 Night City** | `#0C0D14` | Preto azulado com amarelo neon `#FCEE0A`, ciano `#00F0FF` e vermelho glitch `#FF003C` |
-| **HX99 Night City Mint** | `#151817` | Versão suave: cinza-esverdeado escuro com verde-menta pastel `#9CD0A6`, inspirada na tela de mensagens do jogo |
-| **HX99 Night City Cherry** | `#181416` | Irmã do Mint em rosa: cinza-ameixa escuro com rosa-cereja pastel `#F2A6C0` |
+| Tema                       | Fundo     | Descrição                                                                                                      |
+| -------------------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
+| **HX99 Night City**        | `#0C0D14` | Preto azulado com amarelo neon `#FCEE0A`, ciano `#00F0FF` e vermelho glitch `#FF003C`                          |
+| **HX99 Night City Mint**   | `#151817` | Versão suave: cinza-esverdeado escuro com verde-menta pastel `#9CD0A6`, inspirada na tela de mensagens do jogo |
+| **HX99 Night City Cherry** | `#181416` | Irmã do Mint em rosa: cinza-ameixa escuro com rosa-cereja pastel `#F2A6C0`                                     |
 
 ## Prévia
 
@@ -31,8 +31,6 @@ Temas escuros para VS Code inspirados na interface de **Cyberpunk 2077**.
 - **Minimap:** slider translúcido (não cobre o código) e destaques de seleção, busca, erros e git na paleta do tema.
 - Paleta ANSI e cores de sintaxe próprias em cada variante.
 
-Temas só controlam cores: o recorte de 45° nas abas, textos em maiúsculas e ícones de envelope do jogo não são possíveis sem CSS customizado ou um icon theme.
-
 ## Configurações recomendadas
 
 ```jsonc
@@ -42,7 +40,7 @@ Temas só controlam cores: o recorte de 45° nas abas, textos em maiúsculas e �
   // Minimap mais limpo
   "editor.minimap.renderCharacters": false,
   "editor.minimap.maxColumn": 80,
-  "editor.minimap.showSlider": "mouseover"
+  "editor.minimap.showSlider": "mouseover",
 }
 ```
 
