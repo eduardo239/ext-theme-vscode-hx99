@@ -1,7 +1,7 @@
 {
   "name": "hx99-night-city",
   "displayName": "HX99 Night City",
-  "description": "Temas escuros inspirados em Cyberpunk 2077: Night City (neon amarelo e ciano), Night City Mint (suave, verde-menta) e Night City Cherry (suave, rosa-cereja).",
+  "description": "Temas escuros inspirados em Cyberpunk 2077: Night City (neon amarelo e ciano), Night City Mint (suave, verde-menta), Night City Cherry (suave, rosa-cereja) e Night City Noir (somente tons de cinza).",
   "version": "0.1.0",
   "publisher": "eduardo239",
   "license": "MIT",
@@ -32,7 +32,9 @@
     "night city",
     "neon",
     "pink",
-    "cherry"
+    "cherry",
+    "monochrome",
+    "grayscale"
   ],
   "scripts": {
     "build": "node scripts/build.mjs",
@@ -54,6 +56,11 @@
         "label": "HX99 Night City Cherry",
         "uiTheme": "vs-dark",
         "path": "./themes/hx99-night-city-cherry-color-theme.json"
+      },
+      {
+        "label": "HX99 Night City Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hx99-night-city-noir-color-theme.json"
       }
     ]
   }
