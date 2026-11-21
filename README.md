@@ -8,12 +8,12 @@
 
 ## Variantes
 
-| Tema                       | Fundo     | Descrição                                                                                                      |
-| -------------------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
-| **HX99 Night City**        | `#0C0D14` | Preto azulado com amarelo neon `#FCEE0A`, ciano `#00F0FF` e vermelho glitch `#FF003C`                          |
-| **HX99 Night City Mint**   | `#151817` | Versão suave: cinza-esverdeado escuro com verde-menta pastel `#9CD0A6`, inspirada na tela de mensagens do jogo |
-| **HX99 Night City Cherry** | `#181416` | Irmã do Mint em rosa: cinza-ameixa escuro com rosa-cereja pastel `#F2A6C0`                                     |
-| **HX99 Night City Noir**   | `#161616` | Monocromático: só tons de cinza (R=G=B), do branco `#FFFFFF` ao preto; hierarquia por brilho e negrito         |
+| Tema                  | Fundo     | Descrição                                                                                                      |
+| --------------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
+| **Night City**        | `#0C0D14` | Preto azulado com amarelo neon `#FCEE0A`, ciano `#00F0FF` e vermelho glitch `#FF003C`                          |
+| **Night City Mint**   | `#151817` | Versão suave: cinza-esverdeado escuro com verde-menta pastel `#9CD0A6`, inspirada na tela de mensagens do jogo |
+| **Night City Cherry** | `#181416` | Irmã do Mint em rosa: cinza-ameixa escuro com rosa-cereja pastel `#F2A6C0`                                     |
+| **Night City Noir**   | `#161616` | Monocromático: só tons de cinza (R=G=B), do branco `#FFFFFF` ao preto; hierarquia por brilho e negrito         |
 
 ## Prévia
 
