@@ -3,4 +3,4 @@ scripts/**
 *.vsix
 prints/**
 icons/*
-!icons/icon.png
+!icons/icon-marketplace.png
