@@ -1,6 +1,10 @@
-# HX99 Night City
+# Neon Kiroshi
 
-Temas escuros para VS Code inspirados na interface de **Cyberpunk 2077**.
+<p align="center">
+  <img src="prints/neon-kiroshi-palette.png" alt="Neon Kiroshi" width="200" />
+</p>
+
+**Neon Kiroshi** é uma extensão com temas escuros para VS Code, inspirados na interface de **Cyberpunk 2077**.
 
 ## Variantes
 
@@ -27,7 +31,7 @@ Temas escuros para VS Code inspirados na interface de **Cyberpunk 2077**.
 
 **Night City Noir**
 
-![HX99 Night City Cherry](prints/hx99-noir.png)
+![HX99 Night City Noir](prints/hx99-noir.png)
 
 ## O que muda
 
