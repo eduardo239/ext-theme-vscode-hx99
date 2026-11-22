@@ -1,8 +1,8 @@
 {
-  "name": "neon-kiroshi",
+  "name": "neon-kiroshi-x",
   "displayName": "Neon Kiroshi",
   "description": "Temas escuros inspirados em Cyberpunk 2077: Neon Kiroshi (neon amarelo e ciano), Neon Kiroshi Mint (suave, verde-menta), Neon Kiroshi Cherry (suave, rosa-cereja) e Neon Kiroshi Noir (somente tons de cinza).",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "publisher": "eduardo239",
   "license": "MIT",
   "icon": "icons/icon-marketplace.png",
