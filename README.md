@@ -8,30 +8,30 @@
 
 ## Variantes
 
-| Tema                  | Fundo     | Descrição                                                                                                      |
-| --------------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
-| **Night City**        | `#0C0D14` | Preto azulado com amarelo neon `#FCEE0A`, ciano `#00F0FF` e vermelho glitch `#FF003C`                          |
-| **Night City Mint**   | `#151817` | Versão suave: cinza-esverdeado escuro com verde-menta pastel `#9CD0A6`, inspirada na tela de mensagens do jogo |
-| **Night City Cherry** | `#181416` | Irmã do Mint em rosa: cinza-ameixa escuro com rosa-cereja pastel `#F2A6C0`                                     |
-| **Night City Noir**   | `#161616` | Monocromático: só tons de cinza (R=G=B), do branco `#FFFFFF` ao preto; hierarquia por brilho e negrito         |
+| Tema                    | Fundo     | Descrição                                                                                                      |
+| ----------------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
+| **Neon Kiroshi**        | `#0C0D14` | Preto azulado com amarelo neon `#FCEE0A`, ciano `#00F0FF` e vermelho glitch `#FF003C`                          |
+| **Neon Kiroshi Mint**   | `#151817` | Versão suave: cinza-esverdeado escuro com verde-menta pastel `#9CD0A6`, inspirada na tela de mensagens do jogo |
+| **Neon Kiroshi Cherry** | `#181416` | Irmã do Mint em rosa: cinza-ameixa escuro com rosa-cereja pastel `#F2A6C0`                                     |
+| **Neon Kiroshi Noir**   | `#161616` | Monocromático: só tons de cinza (R=G=B), do branco `#FFFFFF` ao preto; hierarquia por brilho e negrito         |
 
 ## Prévia
 
-**Night City**
+**Neon Kiroshi**
 
-![HX99 Night City](prints/hx99-default.png)
+![Neon Kiroshi](prints/neon-kiroshi-default.png)
 
-**Night City Mint**
+**Neon Kiroshi Mint**
 
-![HX99 Night City Mint](prints/hx99-mint.png)
+![Neon Kiroshi Mint](prints/neon-kiroshi-mint.png)
 
-**Night City Cherry**
+**Neon Kiroshi Cherry**
 
-![HX99 Night City Cherry](prints/hx99-cherry.png)
+![Neon Kiroshi Cherry](prints/neon-kiroshi-cherry.png)
 
-**Night City Noir**
+**Neon Kiroshi Noir**
 
-![HX99 Night City Noir](prints/hx99-noir.png)
+![Neon Kiroshi Noir](prints/neon-kiroshi-noir.png)
 
 ## O que muda
 
@@ -44,7 +44,7 @@
 
 ```jsonc
 {
-  "workbench.colorTheme": "HX99 Night City",
+  "workbench.colorTheme": "Neon Kiroshi",
 
   // Minimap mais limpo
   "editor.minimap.renderCharacters": false,

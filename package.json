@@ -1,7 +1,7 @@
 {
-  "name": "hx99-night-city",
+  "name": "neon-kiroshi",
   "displayName": "Neon Kiroshi",
-  "description": "Temas escuros inspirados em Cyberpunk 2077: Night City (neon amarelo e ciano), Night City Mint (suave, verde-menta), Night City Cherry (suave, rosa-cereja) e Night City Noir (somente tons de cinza).",
+  "description": "Temas escuros inspirados em Cyberpunk 2077: Neon Kiroshi (neon amarelo e ciano), Neon Kiroshi Mint (suave, verde-menta), Neon Kiroshi Cherry (suave, rosa-cereja) e Neon Kiroshi Noir (somente tons de cinza).",
   "version": "2.0.0",
   "publisher": "eduardo239",
   "license": "MIT",
@@ -43,24 +43,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "HX99 Night City",
+        "label": "Neon Kiroshi",
         "uiTheme": "vs-dark",
-        "path": "./themes/hx99-night-city-color-theme.json"
+        "path": "./themes/neon-kiroshi-color-theme.json"
       },
       {
-        "label": "HX99 Night City Mint",
+        "label": "Neon Kiroshi Mint",
         "uiTheme": "vs-dark",
-        "path": "./themes/hx99-night-city-mint-color-theme.json"
+        "path": "./themes/neon-kiroshi-mint-color-theme.json"
       },
       {
-        "label": "HX99 Night City Cherry",
+        "label": "Neon Kiroshi Cherry",
         "uiTheme": "vs-dark",
-        "path": "./themes/hx99-night-city-cherry-color-theme.json"
+        "path": "./themes/neon-kiroshi-cherry-color-theme.json"
       },
       {
-        "label": "HX99 Night City Noir",
+        "label": "Neon Kiroshi Noir",
         "uiTheme": "vs-dark",
-        "path": "./themes/hx99-night-city-noir-color-theme.json"
+        "path": "./themes/neon-kiroshi-noir-color-theme.json"
       }
     ]
   }

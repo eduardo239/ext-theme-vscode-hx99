@@ -123,8 +123,8 @@ function hud(c) {
 const variants = [
   {
     // Cyberpunk 2077: preto azulado, amarelo neon, ciano e vermelho "glitch".
-    file: "hx99-night-city-color-theme.json",
-    name: "HX99 Night City",
+    file: "neon-kiroshi-color-theme.json",
+    name: "Neon Kiroshi",
     bg: "#0C0D14",
     bgDark: "#08090E",
     bgDarker: "#050509",
@@ -195,8 +195,8 @@ const variants = [
   },
   {
     // Variante suave: cinza-esverdeado escuro com verde-menta pastel (tela de mensagens do jogo).
-    file: "hx99-night-city-mint-color-theme.json",
-    name: "HX99 Night City Mint",
+    file: "neon-kiroshi-mint-color-theme.json",
+    name: "Neon Kiroshi Mint",
     bg: "#151817",
     bgDark: "#101312",
     bgDarker: "#0B0D0C",
@@ -267,8 +267,8 @@ const variants = [
   },
   {
     // Variante rosa: cinza-ameixa escuro com rosa-cereja pastel (irmã feminina do Mint).
-    file: "hx99-night-city-cherry-color-theme.json",
-    name: "HX99 Night City Cherry",
+    file: "neon-kiroshi-cherry-color-theme.json",
+    name: "Neon Kiroshi Cherry",
     bg: "#181416",
     bgDark: "#131012",
     bgDarker: "#0D0A0C",
@@ -340,8 +340,8 @@ const variants = [
   {
     // Variante monocromática: só tons de cinza (R=G=B), do branco ao preto.
     // Sem matiz, a hierarquia vem do brilho (e de negrito/itálico na sintaxe).
-    file: "hx99-night-city-noir-color-theme.json",
-    name: "HX99 Night City Noir",
+    file: "neon-kiroshi-noir-color-theme.json",
+    name: "Neon Kiroshi Noir",
     bg: "#161616",
     bgDark: "#111111",
     bgDarker: "#0B0B0B",
@@ -920,7 +920,7 @@ function semanticTokenColors(v) {
 }
 
 mkdirSync(join(root, "themes"), { recursive: true });
-// Preenche paleta ANSI, cores de UI e papéis de sintaxe com os padrões HX99.
+// Preenche paleta ANSI, cores de UI e papéis de sintaxe com os padrões Neon Kiroshi.
 function resolve(v) {
   const ansi = v.ansi ?? tangoAnsi;
   const p10k = { ...p10kColors, ...v.p10k };
